@@ -1,0 +1,88 @@
+body{
+    background-color: #383838;
+    color: #ffffff;
+    height: 700px;
+}
+
+div#contenedor{
+    margin: 0px 20px;
+}
+
+h3{
+    font-weight: 600;
+}
+
+div>input{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    letter-spacing: 3px;
+}
+
+div>label#info_label{
+    color: #ffffff;
+}
+
+div>div#inicia_sesion{
+    width: auto;
+}
+
+div#inicia_sesion>a{
+    font-weight: 400;
+    margin-top: 20px;
+    width: 250px;
+    word-spacing: 2px;
+}
+
+div#inicia_sesion>a{
+    border-radius: 10px;
+}
+
+div#olvido_contraseña{
+    margin-top: 30px;
+}
+
+div#registrate{
+    margin-top: 30px;
+}
+
+div>a{
+    color: #ffa726 ;
+    letter-spacing: 1px;
+}
+
+div#card{
+    margin: 160px 500px;
+}
+
+div#size_card{
+    border-radius: 30px;
+    height: 470px;
+}
+
+/* registro */
+div#card2{
+    margin: 0px 500px;
+}
+
+div#register_card{
+    border-radius: 30px;
+    height: 1030px;
+}
+
+div#registarse{
+    width: auto;
+}
+
+div#registrarse>a{
+    font-weight: 400;
+    margin-top: 30px;
+    width: 250px;
+    word-spacing: 2px;
+}
+
+div#registrarse>a{
+    border-radius: 10px;
+}
+
